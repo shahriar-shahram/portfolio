@@ -115,7 +115,7 @@ CARLA, ROS2 (basic), MATLAB/Simulink
 ## 🔗 Links
 
 - Google Scholar: https://scholar.google.com/citations?user=x1HlzQwAAAAJ  
-- LinkedIn: [Your LinkedIn Link]
+- LinkedIn: https://www.linkedin.com/in/shahriar-shahram/
 
 ---
 
