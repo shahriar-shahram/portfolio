@@ -70,13 +70,13 @@ My research addresses **real-world challenges in autonomous driving**, including
 - Predictive Energy Consumption Reduction for EV Adaptive Cruise Controllers  
   *IEEE VPPC 2023*
 
-👉 Full list: [Google Scholar]
+👉 Full list: https://scholar.google.com/citations?user=x1HlzQwAAAAJ&hl=en
 
 ---
 
 ## 🛠 Technical Skills
 
-**Programming:** Python, C, Java  
+**Programming:** Python, C, Java, C++(Basic)  
 
 **Machine Learning / RL:**  
 PyTorch, Stable-Baselines3, Gymnasium, NumPy, Pandas, SciPy  
