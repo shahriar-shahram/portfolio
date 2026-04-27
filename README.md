@@ -1,135 +1,196 @@
-# Shahriar Shahram
+# Hi, I'm Shahriar Shahram 👋
 
-**Ph.D. Candidate in Electrical & Computer Engineering at the University of Central Florida**  
-**Machine Learning | Deep Reinforcement Learning | Model Predictive Control | Autonomous Systems | Data Science**
+🎓 **Ph.D. Candidate in Electrical & Computer Engineering at the University of Central Florida**  
+🤖 **Machine Learning | Deep Reinforcement Learning | Model Predictive Control | Autonomous Systems | Data Science**
 
-I build machine learning, reinforcement learning, optimization, and cloud-based software systems for autonomy, forecasting, and decision-making under uncertainty. My work connects research-grade methods with reproducible engineering pipelines, including autonomous driving control, EV energy optimization, retail forecasting, and retrieval-based AI applications.
+I build **machine learning, reinforcement learning, optimization, and cloud-based AI systems** for autonomy, forecasting, and decision-making under uncertainty.
 
-[LinkedIn](https://www.linkedin.com/in/shahriar-shahram/) · [Google Scholar](https://scholar.google.com/citations?user=x1HlzQwAAAAJ) · [GitHub](https://github.com/shahriar-shahram)
+My work connects research-grade methods with practical engineering pipelines, including **autonomous driving control, EV energy optimization, retail forecasting, and retrieval-based AI applications**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahriar-shahram/">LinkedIn</a> •
+  <a href="https://scholar.google.com/citations?user=x1HlzQwAAAAJ">Google Scholar</a> •
+  <a href="https://github.com/shahriar-shahram">GitHub</a>
+</p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### SoccerTwos Tactics Copilot — RL + RAG Match Analysis
+<table>
+<tr>
+<td width="50%">
 
-A retrieval-based AI system for analyzing Unity ML-Agents SoccerTwos matches between different trained policies, including safe, aggressive, and baseline agents.
+### ⚽ SoccerTwos Tactics Copilot  
+**RL + RAG Match Analysis**
 
-The project is designed to compare policy behavior across multiple matchups, summarize tactical strengths and weaknesses, and answer grounded questions using indexed match summaries and event-level context.
+A retrieval-based AI system for analyzing Unity ML-Agents SoccerTwos matches between **safe**, **aggressive**, and **baseline** trained policies.
 
-**Focus areas:** reinforcement learning evaluation, agent behavior analysis, retrieval-augmented generation, Azure AI Search, Azure OpenAI, frontend/backend product design.
+Designed to compare policy behavior across matchups, summarize tactical strengths and weaknesses, and answer grounded questions using indexed match summaries.
 
 **Tech:** Python, FastAPI, React, Azure AI Search, Azure OpenAI, Unity ML-Agents
 
-[Repository](https://github.com/shahriar-shahram/soccertwos-tactics-copilot)
+🔗 [Repository](https://github.com/shahriar-shahram/soccertwos-tactics-copilot)
 
----
+</td>
+<td width="50%">
 
-### DemandPilot — Retail Demand Forecasting Pipeline
+### 📈 DemandPilot  
+**Retail Demand Forecasting Pipeline**
 
-An end-to-end demand forecasting project built around retail-style sales data. The system includes data cleaning, feature engineering, forecasting experiments, evaluation metrics, and a user-facing dashboard direction for business-oriented forecasting.
-
-**Focus areas:** time-series forecasting, data preprocessing, model evaluation, dashboard development, deployment planning.
+An end-to-end demand forecasting project built around retail-style sales data, including data cleaning, feature engineering, forecasting experiments, evaluation metrics, and dashboard development.
 
 **Tech:** Python, Pandas, NumPy, Scikit-learn, Streamlit, Docker
 
-[Repository](https://github.com/shahriar-shahram/DemandPilot)
+🔗 [Repository](https://github.com/shahriar-shahram/DemandPilot)
 
----
+</td>
+</tr>
 
-### Fresh Retail AI Copilot — Large-Scale Retail Analytics
+<tr>
+<td width="50%">
 
-A scalable retail analytics and forecasting project using large transaction-style datasets with product, store, date, discount, holiday, inventory, and weather-related features. The goal is to explore practical forecasting workflows and AI-assisted business intelligence for fresh retail operations.
+### 🛒 Fresh Retail AI Copilot  
+**Large-Scale Retail Analytics**
 
-**Focus areas:** large-scale tabular data analysis, forecasting features, business intelligence, AI copilot design.
+A scalable retail analytics and forecasting project using product, store, date, discount, holiday, inventory, and weather-related features.
 
-**Tech:** Python, Pandas, Parquet, Streamlit, Google Cloud / Cloud Run direction
+The goal is to explore practical forecasting workflows and AI-assisted business intelligence for fresh retail operations.
 
-[Repository](https://github.com/shahriar-shahram/fresh-retail-copilot)
+**Tech:** Python, Pandas, Parquet, Streamlit, Google Cloud / Cloud Run
 
----
+🔗 [Repository](https://github.com/shahriar-shahram/fresh-retail-copilot)
 
-### Energy-Aware EV Autonomy — MPC for Electric Vehicle Control
+</td>
+<td width="50%">
 
-Research portfolio for energy-aware adaptive cruise control and model predictive control in electric vehicles. The project highlights energy optimization, adaptive partitioning, convex approximation of non-convex energy models, and real-time feasibility for autonomous EV control.
+### 🚗 Energy-Aware EV Autonomy  
+**MPC for Electric Vehicle Control**
 
-**Focus areas:** model predictive control, EV energy optimization, constrained optimization, autonomous driving.
+Research portfolio for energy-aware adaptive cruise control and model predictive control in electric vehicles.
+
+Highlights energy optimization, adaptive partitioning, convex approximation of non-convex energy models, and real-time feasibility for autonomous EV control.
 
 **Tech:** Python, MATLAB/Simulink, CVXPY, optimization, vehicle simulation
 
-[Repository](https://github.com/shahriar-shahram/energy-aware-ev-autonomy)
+🔗 [Repository](https://github.com/shahriar-shahram/energy-aware-ev-autonomy)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 ACC RL Simulator  
+**Deep RL for Adaptive Cruise Control**
+
+A reinforcement learning simulator for adaptive cruise control under communication uncertainty and packet loss.
+
+Compares off-policy RL methods such as **SAC**, **TD3**, and **DDPG** for safe and energy-aware longitudinal control.
+
+**Tech:** Python, PyTorch, Stable-Baselines3, Gymnasium, Matplotlib, TensorBoard
+
+🔗 [Repository](https://github.com/shahriar-shahram/acc-rl-simulator)
+
+</td>
+<td width="50%">
+
+### 🧩 Current Portfolio Direction  
+**Research to Product**
+
+I am building projects that connect my autonomous systems research with production-oriented AI/data systems:
+
+- RL-based agent evaluation platforms  
+- Forecasting dashboards  
+- Retrieval-augmented AI copilots  
+- Cloud-deployed ML applications  
+- Decision-making under uncertainty  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ACC RL Simulator — Deep RL for Adaptive Cruise Control
+## 🔬 Research Focus
 
-A reinforcement learning simulator for adaptive cruise control under communication uncertainty and packet loss. The project compares off-policy RL methods such as SAC, TD3, and DDPG for safe and energy-aware longitudinal control.
+My doctoral research focuses on:
 
-**Focus areas:** deep reinforcement learning, adaptive cruise control, safety constraints, energy-aware control, packet loss robustness.
+> **Energy-aware control and learning for autonomous and connected electric vehicles under uncertainty and communication constraints.**
 
-**Tech:** Python, PyTorch, Stable-Baselines3, Gymnasium, NumPy, Matplotlib, TensorBoard
+Key themes:
 
-[Repository](https://github.com/shahriar-shahram/acc-rl-simulator)
-
----
-
-## Research
-
-My doctoral research focuses on **energy-aware control and learning for autonomous and connected electric vehicles under uncertainty and communication constraints**.
-
-Key themes include:
-
-- Energy-efficient adaptive cruise control and cooperative adaptive cruise control
-- Model predictive control under communication packet loss
-- Deep reinforcement learning for longitudinal vehicle control
-- EV traction energy modeling and optimization
-- Real-time approximation of non-convex control objectives
-- Safety, comfort, and robustness in autonomous driving systems
+- 🚘 Energy-efficient adaptive cruise control and cooperative adaptive cruise control  
+- 📡 Model predictive control under communication packet loss  
+- 🧠 Deep reinforcement learning for longitudinal vehicle control  
+- 🔋 EV traction energy modeling and optimization  
+- 📉 Real-time approximation of non-convex control objectives  
+- 🛡️ Safety, comfort, and robustness in autonomous driving systems  
 
 ---
 
-## Selected Publications
+## 📚 Selected Publications
 
-- **Information-Driven Model Predictive Control with Adaptive Partitioning for Energy Optimization in Automated Electric Vehicles**  
-  IEEE Open Journal of Intelligent Transportation Systems, 2025
+### 🏆 Information-Driven MPC for EV Energy Optimization  
+**Information-Driven Model Predictive Control with Adaptive Partitioning for Energy Optimization in Automated Electric Vehicles**  
+*IEEE Open Journal of Intelligent Transportation Systems, 2025*
 
-- **Impact of Communication Loss on MPC-Based Cooperative Adaptive Cruise Control and Platooning**  
-  IEEE Vehicular Technology Conference, 2021
+### 📡 Communication Loss in CACC  
+**Impact of Communication Loss on MPC-Based Cooperative Adaptive Cruise Control and Platooning**  
+*IEEE Vehicular Technology Conference, 2021*
 
-- **Energy-Aware Deep Reinforcement Learning for Adaptive Cruise Control under Communication Packet Loss**  
-  Submitted / under review
+### 🧠 Deep RL for ACC under Packet Loss  
+**Energy-Aware Deep Reinforcement Learning for Adaptive Cruise Control under Communication Packet Loss**  
+*Submitted / under review*
 
-Full publication list: [Google Scholar](https://scholar.google.com/citations?user=x1HlzQwAAAAJ)
-
----
-
-## Technical Skills
-
-**Programming:** Python, C, C++, Java, SQL  
-**Machine Learning:** PyTorch, Stable-Baselines3, Scikit-learn, supervised learning, time-series forecasting, deep reinforcement learning  
-**Data Science:** Pandas, NumPy, SciPy, Matplotlib, TensorBoard, feature engineering, model evaluation  
-**Optimization & Control:** Model Predictive Control, constrained optimization, CVXPY, convex approximation  
-**Simulation:** CARLA, SUMO, Unity ML-Agents, MATLAB/Simulink  
-**Cloud & Product Tools:** Azure OpenAI, Azure AI Search, Google Cloud Run, Streamlit, Docker, Git, FastAPI, React  
+📄 Full publication list: [Google Scholar](https://scholar.google.com/citations?user=x1HlzQwAAAAJ)
 
 ---
 
-## Experience
+## 🛠️ Technical Skills
 
-**Graduate Research Assistant — University of Central Florida**  
+### 👨‍💻 Programming & Data
+`Python` `C` `C++` `Java` `SQL`  
+`Pandas` `NumPy` `SciPy` `Matplotlib` `TensorBoard`
+
+### 🤖 Machine Learning & AI
+`PyTorch` `Stable-Baselines3` `Scikit-learn`  
+`Supervised Learning` `Time-Series Forecasting` `Deep Reinforcement Learning`
+
+### 🚗 Control, Optimization & Simulation
+`Model Predictive Control` `CVXPY` `Constrained Optimization`  
+`CARLA` `SUMO` `Unity ML-Agents` `MATLAB/Simulink`
+
+### ☁️ Cloud, Backend & Product Tools
+`Azure OpenAI` `Azure AI Search` `Google Cloud Run`  
+`Streamlit` `Docker` `Git` `FastAPI` `React`
+
+---
+
+## 🎓 Experience
+
+### 🧪 Graduate Research Assistant — University of Central Florida
+
 Research in autonomous driving, electric vehicle energy optimization, model predictive control, deep reinforcement learning, and connected vehicle systems.
 
-**Graduate Teaching Assistant — University of Central Florida**  
-Teaching and lab support for Embedded Systems, Digital Systems, and Computer Organization, including topics such as C programming, microcontrollers, interrupts, UART, I2C, finite state machines, and debugging.
+### 👨‍🏫 Graduate Teaching Assistant — University of Central Florida
+
+Teaching and lab support for Embedded Systems, Digital Systems, and Computer Organization, including C programming, microcontrollers, interrupts, UART, I2C, finite state machines, and debugging.
 
 ---
 
-## Current Direction
+## 🌱 What I’m Building Toward
 
-I am currently building portfolio projects that connect my research background with production-oriented AI and data systems, including:
+I am interested in roles at the intersection of:
 
-- RL-based agent evaluation platforms
-- Forecasting and analytics dashboards
-- Retrieval-augmented AI copilots
-- Cloud-deployed ML applications
-- Autonomous systems and decision-making under uncertainty
+- 🤖 Machine learning and autonomous systems  
+- 🧠 Reinforcement learning and decision-making  
+- 📊 Data science and forecasting  
+- ☁️ Cloud-deployed AI products  
+- 🚗 Robotics, autonomy, and intelligent transportation  
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my GitHub profile 🚀</b>
+</p>
