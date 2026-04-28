@@ -8,6 +8,7 @@ I build **machine learning, reinforcement learning, optimization, and cloud-base
 My work connects research-grade methods with practical engineering pipelines, including **autonomous driving control, EV energy optimization, retail forecasting, and retrieval-based AI applications**.
 
 <p align="center">
+  <a href="https://shahriarshahram.com">Website</a> •
   <a href="https://www.linkedin.com/in/shahriar-shahram/">LinkedIn</a> •
   <a href="https://scholar.google.com/citations?user=x1HlzQwAAAAJ">Google Scholar</a> •
   <a href="https://github.com/shahriar-shahram">GitHub</a>
