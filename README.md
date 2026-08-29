@@ -1,6 +1,6 @@
 # Hi, I'm Shahriar Shahram 👋
 
-🎓 **Ph.D. Candidate in Electrical & Computer Engineering at the University of Central Florida**  
+🎓 **Ph.D. in Electrical & Computer Engineering at the University of Central Florida**  
 🤖 **Machine Learning | Deep Reinforcement Learning | Model Predictive Control | Autonomous Systems | Data Science**
 
 I build **machine learning, reinforcement learning, optimization, and cloud-based AI systems** for autonomy, forecasting, and decision-making under uncertainty.
